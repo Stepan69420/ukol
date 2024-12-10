@@ -1,0 +1,137 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f2f5;
+}
+
+.container {
+    display: grid;
+    gap: 20px;
+    padding: 200px;
+    margin: 0 auto;
+}
+
+h2 {
+    margin: 0;
+    font-size: 18px;
+    padding-left: 60px;
+}
+
+.titul {
+    font-size: 14px;
+    color: #aaa;
+    margin-bottom: 20px;
+    margin-top: 0;
+    padding-left: 60px;
+}
+
+.zkusenost {
+    font-style: normal;
+    margin: 10px 0;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.text {
+    font-size: 15px;
+    line-height: 1.6;
+    color: rgb(155,155,155);
+}
+
+.jonathan {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #33475b;
+    color: white;
+    position: relative;
+    width: 300px;
+    height: 250px;
+    left: 680px;
+    bottom: 310px;
+
+}
+
+.jeanette {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    color: #333;
+    width: 300px;
+    height: 250px;
+    position: relative;
+    right: 910px;
+}
+
+.patrick {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #25292e;
+    color: white;
+    position: relative;
+    height: 250px;
+    bottom: 310px;
+    left: 380px;
+    width: 600px;
+}
+
+.daniel {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #6a0dad;
+    color: white;
+    grid-column: span 2;
+    position: relative;
+    width: 600px;
+    height: 250px;
+}
+
+.kira {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    color: #333;
+    position: relative;
+    height: 560px;
+    width: 300px;
+    bottom: 620px;
+    left: 160px;
+}
+
+.jeanettef {
+    border-radius: 50%;
+    position: absolute;
+    top: 20px;
+}
+
+.danielf {
+    border-radius: 50%;
+    position: absolute;
+    top: 20px;
+    border-color: purple;
+}
+
+.jonathanf {
+    border-radius: 50%;
+    position: absolute;
+    top: 20px;
+}
+
+.kiraf {
+    border-radius: 50%;
+    position: absolute;
+    top: 20px;
+}
+
+.patrickf {
+    border-radius: 50%;
+    position: absolute;
+    top: 20px;
+    border-color: purple;
+}
