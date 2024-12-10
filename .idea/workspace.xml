@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd19d051-7701-430b-a87d-5eb3a3f9bcb7" name="Changes" comment="hotovo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-    </list>
+    <list default="true" id="dd19d051-7701-430b-a87d-5eb3a3f9bcb7" name="Changes" comment="hotovo 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +66,7 @@
       <workItem from="1733819130888" duration="6728000" />
       <workItem from="1733825939289" duration="128000" />
       <workItem from="1733843782751" duration="47000" />
-      <workItem from="1733848568754" duration="680000" />
+      <workItem from="1733848568754" duration="809000" />
     </task>
     <task id="LOCAL-00001" summary="hotovo">
       <option name="closed" value="true" />
@@ -88,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733825883054</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hotovo 2">
+      <option name="closed" value="true" />
+      <created>1733849352127</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733849352127</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hotovo" />
-    <option name="LAST_COMMIT_MESSAGE" value="hotovo" />
+    <MESSAGE value="hotovo 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="hotovo 2" />
   </component>
 </project>
